@@ -1,0 +1,80 @@
+.about {
+}
+.container {
+}
+.about__inner {
+    
+
+}
+.about__inner-inner {
+
+    margin-top: 80px;
+
+}
+.about__inner-inner-list {
+    list-style: none;
+    display: flex;
+}
+.about__inner-inner-item {
+    margin-left: 20px;
+}
+.about__inner-inner-item__img {
+}
+.about__inner-inner-item-box {
+}
+.about__inner-inner-box__top {
+    display: flex;
+    padding-top: 28px;
+}
+.abot__inner-inner-box__top-left {
+}
+.about__inner-inner-box__top-left__p {
+    margin-right: 76px;
+    margin-left: 52px;
+    position: relative;
+}
+
+.about__inner-box__top-left__img {
+    border-radius: 50%;
+    position: absolute;
+    top: 720px;
+}
+.abot__inner-inner-box__top-right {
+}
+.about__innner-inner-box__top-right__img {
+}
+.about__inner-inner-box__bottom {
+    padding-top: 57px;
+    display: flex;
+}
+.abot__inner-inner-box__bottom-left {
+    margin-right: 49px;
+}
+.about__inner-inner-box__bottom-left__p {
+    margin-left: 16px;
+    position: relative;
+}
+
+.about__inner-inner-box__bottom-left__p::before{
+    content: '';
+    position: absolute;
+    left: -10px;
+    width: 8px;
+    height: 8px;
+    background-image: url(../../images/Ellipse\ 8.svg);
+
+
+}
+
+
+
+
+.about__inner-inner-box__bottom-left__p-2 {
+}
+.abot__inner-inner-box__bottom-right {
+}
+.about__inner-inner-box__bottom-left__p-3 {
+}
+.about__inner-inner-box__bottom-left__p-4 {
+}
+

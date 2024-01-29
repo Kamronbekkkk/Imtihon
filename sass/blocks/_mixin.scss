@@ -1,0 +1,8 @@
+@mixin flex-starter {
+	display: flex;
+	align-items: center;
+}
+
+@mixin list-starter {
+	list-style: none;
+}
